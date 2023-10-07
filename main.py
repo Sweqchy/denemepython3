@@ -1,1 +1,1 @@
-print('Merhaba Dünya')
+print(23413)
